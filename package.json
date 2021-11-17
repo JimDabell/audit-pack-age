@@ -1,0 +1,9 @@
+{
+  "name": "audit-pack-age",
+  "version": "0.1.0",
+  "description": "NPM package age checker",
+  "license": "ISC",
+  "bin": {
+    "audit-pack-age": "bin/audit-pack-age.js"
+  }
+}
